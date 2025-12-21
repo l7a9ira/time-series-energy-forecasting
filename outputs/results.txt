@@ -1,0 +1,4 @@
+Time Series Forecasting for Energy Consumption
+Metrics on Test Set:
+- MAE:  0.3259 kW
+- RMSE: 0.4772 kW
